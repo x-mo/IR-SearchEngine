@@ -1,0 +1,12 @@
+#content form{
+margin-top:25%;
+background:silver;
+border:1px solid gray;
+display:inline-block;
+}
+a{
+color:black;
+text-decoration:none;
+font-weight:bold;
+}
+a:visited{color:grey;}
